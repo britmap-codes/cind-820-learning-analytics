@@ -1,6 +1,6 @@
 # cind-820-learning-analytics
 
-# CIND 820 ClearStart Capstone – Milestone 2
+# CIND 820 Learning Analytics Capstone – Milestone 2
 
 ## Project Overview
 
