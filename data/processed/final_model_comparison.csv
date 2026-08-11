@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC_AUC,Train_time_seconds,Prediction_time_seconds,Mean_Accuracy,SD_Accuracy,Mean_Precision,SD_Precision,Mean_Recall,SD_Recall,Mean_F1,SD_F1,Mean_ROC_AUC,SD_ROC_AUC
+Random Forest,0.9356,0.969,0.907,0.937,0.9786,36.5098,0.2436,0.9365,0.0042,0.9678,0.0038,0.9099,0.005,0.938,0.0041,0.9788,0.0007
+Decision Tree,0.9288,0.9797,0.8835,0.9291,0.9754,0.5638,0.1081,0.9318,0.0038,0.9765,0.0025,0.8923,0.0079,0.9325,0.004,0.9747,0.0006
+Logistic Regression,0.9061,0.9405,0.8777,0.908,0.9514,0.4593,0.0936,0.9093,0.0012,0.9402,0.0033,0.8845,0.0044,0.9115,0.0014,0.953,0.0017

@@ -1,0 +1,3 @@
+Comparison,Metric,Statistic,P_value,Mean_difference
+Random Forest vs Logistic Regression,F1,0.0,0.0625,0.02646
+Random Forest vs Decision Tree,F1,0.0,0.0625,0.00544
